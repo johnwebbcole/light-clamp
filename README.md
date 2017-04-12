@@ -1,8 +1,8 @@
 # light-clamp
 
-> a tripod attachment to holde a flashlight
-
 [https://johnwebbcole.github.io/light-clamp/](https://johnwebbcole.github.io/light-clamp/)
+
+> a tripod attachment to hold a flashlight
 
 ![](https://github.com/johnwebbcole/light-clamp/blob/master/docs/assembled.png?raw=true)
 
@@ -17,13 +17,13 @@ To assemble you will need the following parts:
   
 ## Printing
 
-There are two stl files the main [body](stl/body.stl) and the [clamp](stl/clamp.stl).  You can use these or generate your own in [OpenJSCAD](http://openjscad.org/#https://raw.githubusercontent.com/johnwebbcole/light-clamp/master/dist/light-clamp.jscad).
+There are two `stl` files the main [body](stl/body.stl) and the [clamp](stl/clamp.stl).  You can use these or generate your own in [OpenJSCAD](http://openjscad.org/#https://raw.githubusercontent.com/johnwebbcole/light-clamp/master/dist/light-clamp.jscad).
 
-When slicing, use 3 or more walls, and print the main body with the slot to hold the tripod attchment nut facing up.
+When slicing, use 3 or more walls, and print the main body with the slot to hold the tripod attachment nut facing up.
 
 ![exploded](https://github.com/johnwebbcole/light-clamp/blob/master/docs/exploded.png?raw=true)
 
-The thinnest part is at the bottom where the tripod attaches, the plastic will only be 2mm thick.  3 or more walls will ensure this is solid.  You will not need a lot of infil, I used 20%.
+The thinnest part is at the bottom where the tripod attaches, the plastic will only be 2mm thick.  3 or more walls will ensure this is solid.  You will not need a lot of infill, I used 20%.
 
 ## Assembly
 

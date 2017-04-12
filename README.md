@@ -17,7 +17,7 @@ To assemble you will need the following parts:
   
 ## Printing
 
-There are two `stl` files the main [body](stl/body.stl) and the [clamp](stl/clamp.stl).  You can use these or generate your own in [OpenJSCAD](http://openjscad.org/#https://raw.githubusercontent.com/johnwebbcole/light-clamp/master/dist/light-clamp.jscad).
+There are two `stl` files the main [body](stl/body.stl) and the [clamp](stl/clamp.stl).  You can use these or generate your own in [OpenJSCAD](https://openjscad.org/#https://raw.githubusercontent.com/johnwebbcole/light-clamp/master/dist/light-clamp.jscad).
 
 When slicing, use 3 or more walls, and print the main body with the slot to hold the tripod attachment nut facing up.
 

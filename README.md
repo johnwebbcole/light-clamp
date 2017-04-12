@@ -4,7 +4,7 @@
 
 [https://johnwebbcole.github.io/light-clamp/](https://johnwebbcole.github.io/light-clamp/)
 
-![](docs/assembled.png)
+![](https://github.com/johnwebbcole/light-clamp/blob/master/docs/assembled.png?raw=true)
 
 ## BOM
 
@@ -17,9 +17,11 @@ To assemble you will need the following parts:
   
 ## Printing
 
+There are two stl files the main [body](stl/body.stl) and the [clamp](stl/clamp.stl).  You can use these or generate your own in [OpenJSCAD](http://openjscad.org/#https://raw.githubusercontent.com/johnwebbcole/light-clamp/master/dist/light-clamp.jscad).
+
 When slicing, use 3 or more walls, and print the main body with the slot to hold the tripod attchment nut facing up.
 
-![exploded](docs/exploded.png)
+![exploded](https://github.com/johnwebbcole/light-clamp/blob/master/docs/exploded.png?raw=true)
 
 The thinnest part is at the bottom where the tripod attaches, the plastic will only be 2mm thick.  3 or more walls will ensure this is solid.  You will not need a lot of infil, I used 20%.
 
@@ -27,7 +29,7 @@ The thinnest part is at the bottom where the tripod attaches, the plastic will o
 
 The slot at the bottom of the base is sized for a `1/4-20` nut, slide one in and attach your tripod.  Use the `1/4-20 2 inch bolt` through the hole in the middle of the base, and attach the clamp piece.  You may need to use some padding to get a firm grip.  Hold everything together with the `washer` and `wing nut`.
 
-![hero](docs/hero.jpg)
+![hero](https://github.com/johnwebbcole/light-clamp/blob/master/docs/hero.jpg?raw=true)
 
 
 ## Running

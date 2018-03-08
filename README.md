@@ -14,7 +14,7 @@ To assemble you will need the following parts:
  * 1 `1/4-20` 2 inch bolt
  * 1 `1/4-20` washer
  * 1 `1/4-20` wing nut (or regular nut)
-  
+
 ## Printing
 
 There are two `stl` files the main [body](stl/body.stl) and the [clamp](stl/clamp.stl).  You can use these or generate your own in [OpenJSCAD](https://openjscad.org/#https://cdn.rawgit.com/johnwebbcole/light-clamp/1.0.0/dist/light-clamp.jscad).
@@ -31,7 +31,6 @@ The slot at the bottom of the base is sized for a `1/4-20` nut, slide one in and
 
 ![hero](https://github.com/johnwebbcole/light-clamp/blob/master/docs/hero.jpg?raw=true)
 
-
 ## Running
 
 The jscad project `light-clamp` uses gulp to create a `dist/lightClamp.jscad` file and watches your source for changes. You can drag the `dist/lightClamp.jscad` directory into the drop area on [openjscad.org](http://openjscad.org). Make sure you check `Auto Reload` and any time you save, gulp will recreate the `dist/lightClamp.jscad` file and your model should refresh.
@@ -40,11 +39,10 @@ The jscad project `light-clamp` uses gulp to create a `dist/lightClamp.jscad` fi
 
 The example project uses [jscad-utils](https://www.npmjs.com/package/jscad-utils) and [jscad-hardware](https://www.npmjs.com/package/jscad-hardware). `jscad-utils` is a set of utilities that make object creation and alignment easier. `jscad-hardware` is a library of common hardware pieces, such as bolts, nuts and washers.
 
-
 ## OpenJSCAD.org
 
-You can open this project directly in [OpenJSCad](https://www.openjscad.org)
+You can open this project directly in [OpenJSCad](https://openjscad.org/#https://cdn.rawgit.com/johnwebbcole/light-clamp/1.0.0/dist/light-clamp.jscad)
 
 ## License
 
-ISC © [John Cole](http://github.com/)
+ISC © [John Cole](http://github.com/johnwebbcole)

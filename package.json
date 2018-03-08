@@ -9,8 +9,8 @@
   "author": "John Cole",
   "license": "ISC",
   "dependencies": {
-    "jscad-hardware": "^1.1.0",
-    "jscad-utils": "^3.0.0"
+    "jscad-utils": "^3.0.0",
+    "jscad-hardware": "^1.1.0"
   },
   "devDependencies": {
     "del": "^2.2.0",
